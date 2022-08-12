@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>js introduction</title>
+    </head>
+<body>
+<script>
+        //reverse arrays
+
+    let names=["jordan","yogesh","self","hiren"];
+       
+   for(let i=3;i>=0;i--)
+   {
+    console.log(names[i]);
+   }
+
+
+</script>    
+
+</body>
+</html>
